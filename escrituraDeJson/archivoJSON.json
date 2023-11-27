@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "apellido": "Kafka",
+    "nombre": "Franz",
+    "dni": "123432",
+    "libros": [
+      "La metamorfosis",
+      "Cartas a Milena"
+    ]
+  },
+  {
+    "id": 2,
+    "apellido": "Wilde",
+    "nombre": "Oscar",
+    "dni": "123432",
+    "libros": [
+      "El retrato de Dorian Gray"
+    ]
+  }
+]

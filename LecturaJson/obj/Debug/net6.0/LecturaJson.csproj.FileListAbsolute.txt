@@ -1,0 +1,17 @@
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\bin\Debug\net6.0\LecturaJson.exe
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\bin\Debug\net6.0\LecturaJson.deps.json
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\bin\Debug\net6.0\LecturaJson.runtimeconfig.json
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\bin\Debug\net6.0\LecturaJson.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\bin\Debug\net6.0\LecturaJson.pdb
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\obj\Debug\net6.0\LecturaJson.csproj.AssemblyReference.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\obj\Debug\net6.0\LecturaJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\obj\Debug\net6.0\LecturaJson.AssemblyInfoInputs.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\obj\Debug\net6.0\LecturaJson.AssemblyInfo.cs
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\obj\Debug\net6.0\LecturaJson.csproj.CoreCompileInputs.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\obj\Debug\net6.0\LecturaJson.csproj.CopyComplete
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\obj\Debug\net6.0\LecturaJson.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\obj\Debug\net6.0\refint\LecturaJson.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\obj\Debug\net6.0\LecturaJson.pdb
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\obj\Debug\net6.0\LecturaJson.genruntimeconfig.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TP_Json\LecturaJson\obj\Debug\net6.0\ref\LecturaJson.dll
